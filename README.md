@@ -1,17 +1,6 @@
-- 👋 Hi, I’m @Cyber-Yoddha aka Siddharth Shil.
-I'm enthusiastic about safeguarding the digital world and ensuring the safety and protection of people, businesses, and governments as an ambitious cybersecurity expert. 
-I'm presently looking for opportunities so that I can advance my knowledge and abilities in this quickly changing industry.
-I have developed a strong foundation in computer networking, programming, and information security concepts throughout my scholastic and personal encounters.
+-👋 Hey! I’m Siddharth Shil, aka Cyber-Yoddha – your friendly neighborhood cybersecurity enthusiast!
 
-Moreover, I can analyse complicated circumstances and spot potential security threats thanks to my critical thinking and problem-solving abilities.
-Through my involvement in group initiatives and cooperation with various partners, I have also strengthened my communication and teamwork skills.
-
-My personal brand centers on a commitment to learning, growth, and collaboration.
-I am always eager to expand my knowledge and stay up-to-date with the latest trends and threats in cybersecurity. 
-Additionally, I am a firm believer in the importance of teamwork and effective communication in achieving shared goals.
-
-If you are looking for a dedicated and motivated entry-level cybersecurity professional, I would love to connect with you and explore potential opportunities. 
-Thank you for considering my personal brand, and I look forward to hearing from you soon.
+I’m on a mission to keep the digital world safe, one line of code at a time. Whether I’m analyzing network traffic, solving security puzzles, or chasing down cyber threats, I bring my A-game and a sense of humor.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
