@@ -1,5 +1,4 @@
--👋 Hey! I’m Siddharth Shil, aka Cyber-Yoddha – your friendly neighborhood cybersecurity enthusiast!
-
+- 👋 Hey! I’m Siddharth Shil, aka Cyber-Yoddha – your friendly neighborhood cybersecurity enthusiast!
 I’m on a mission to keep the digital world safe, one line of code at a time. Whether I’m analyzing network traffic, solving security puzzles, or chasing down cyber threats, I bring my A-game and a sense of humor.
 - 👀 I’m interested in
 Advancing my career in both cybersecurity and AI, particularly in areas like threat analysis, application security, and integrating AI with security solutions. I'm also passionate about participating in cybersecurity events, tackling real-world security challenges, and continually expanding my knowledge in both fields.
